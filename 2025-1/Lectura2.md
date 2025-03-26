@@ -1,6 +1,6 @@
 ## Infraestructura como código, configuración, seguridad y administración
 
-La infraestructura como código (IaC) es uno de los fundamentos en la ingeniería de software contemporánea. En este enfoque, la infraestructura de TI –que incluye servidores, redes, sistemas de almacenamiento, contenedores, balanceadores de carga y otros recursos necesarios para ejecutar aplicaciones– se trata de la misma manera que el código fuente de una aplicación. Esto implica que la configuración, el aprovisionamiento y la administración de los recursos se definen mediante archivos de texto o configuraciones declarativas, generalmente almacenadas en repositorios de control de versiones como Git.
+La infraestructura como código (IaC) es uno de los **fundamentos en la ingeniería de software contemporánea**. En este enfoque, la infraestructura de TI –que incluye servidores, redes, sistemas de almacenamiento, contenedores, balanceadores de carga y otros recursos necesarios para ejecutar aplicaciones– se trata de la misma manera que el código fuente de una aplicación. Esto implica que la configuración, el aprovisionamiento y la administración de los recursos se definen mediante archivos de texto o configuraciones declarativas, generalmente almacenadas en repositorios de control de versiones como Git.
 
 #### Concepto y principios de IaC
 
